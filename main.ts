@@ -1,3 +1,5 @@
+//By Igor
+
 function wyswietl(num: number) {
     led.plotBarGraph(
         num,
@@ -97,4 +99,3 @@ prętkość = 50
 basic.forever(function () {
 
 })
- 
